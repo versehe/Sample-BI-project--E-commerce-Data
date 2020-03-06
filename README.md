@@ -30,7 +30,7 @@ This is a mimic BI project I did at February 2020 for a startup company intervie
 
 ## Dataset
 * ERD: Database_ERD.png
-* Dataset: Dataset Folder
+* Dataset: flat files(.csv) in Dataset Folder
 
 ## Project Deliverables
 
